@@ -1,3 +1,8 @@
+const zephVaincus = {
+  name: 'Zephyr Vaincus'
+  about: 'Hi, I’m @zephvaincu, i’m interested in Computer Science'
+ }
+
 - 👋 Hi, I’m @zephvaincus
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Javascript
